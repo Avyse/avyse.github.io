@@ -12,6 +12,8 @@ comments: false
 Od początku działalności Sistema, następnie TEAL IT pomaga firmom w osiąganiu wymiernych korzyści dzięki dostarczaniu nowoczesnego oprogramowania dla średnich i dużych firm z branż produkcyjnych, handlowych i usługowych, które są zainteresowane minimalizacją kosztów i skutecznym zarządzaniem. TealIT jest wiodącym dostawcą nowoczesnych systemów informatycznych, specjalizującym się we wdrażaniu, doradzaniu, obsłudze i serwisowaniu systemów zarządzania opartych na biznesowym oprogramowaniu enova365. System został stworzony przez ekspertów z dziedzin zarządzania, finansów i księgowości, handlu oraz kadr i płac, a doceniło go już kilka tysięcy firm z całej Polski. Dzięki wieloletniemu doświadczeniu na rynku IT,  zapewniamy profesjonalne wdrożenia a także dbałość o optymalne wykorzystanie istniejącej infrastruktury informatycznej klientów., wymiernych korzyści.
 Motywacja
 Wspieramy klientów chcących przejść na następny poziom rozwoju osobistego i biznesowego, poprzez budowanie zmotywowanym zespołem trwałych i efektywnych rozwiązań systemowych, przynoszących pozytywną zmianę rzeczywistości.
+
+<a href="{{ site.url }}/enova365/">Co to jest enova365?</a>
  
 ## Wizja
 Pragniemy pozytywnie zmieniać rzeczywistość budując trwałe i efektywne rozwiązania systemowe.
