@@ -5,7 +5,7 @@ date: 2018-11-06
 comments: false
 ---
 
-<center><a href="http://www.tealit.pl"><b>Tealit</b></a> to rozwiązania jakich potrzebuje Twoja firma.</center>
+<center><a href="https://avyse.github.io"><b>Tealit</b></a> to rozwiązania jakich potrzebuje Twoja firma.</center>
 
 ## Historia naszej działalności
 
