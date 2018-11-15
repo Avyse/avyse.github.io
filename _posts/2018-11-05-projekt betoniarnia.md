@@ -19,8 +19,6 @@ Kolejnym etapem była automatyzacja rozliczania czasu pracy kierowców, zostały
 
 Kolejnym najtrudniejszym elementem było wdrożenie systemu informacji Finansowej.
 
-
-
 System informacji finansowej (FIS) to autorski zestaw zintegrowanych mechanizmów umożliwiających otrzymanie przez użytkownika w jak najkrótszym czasie żądanej informacji finansowej, podatkowej i zarządczej na podstawie danych zapisywanych w centralnym systemie informatycznym przedsiębiorstwa.
 
 System FIS jest dostosowywany do unikalnej struktury kont i zapisów księgowych, które przyjmują cechy obiektów powiązanych (m.in.: zasobów, działów, środków trwałych, środków produkcji) charakterystycznych dla danej firmy. Integrację danych na zapisach księgowych zapewnia mechanizm księgowania wielowymiarowego, który w sposób automatyczny generuje zapisy na kontach uzupełniając je o dane operacyjne z pozostałych obszarów i części systemu informacyjnego (m.in. magazynów, handlu, produkcji, CRM, kadr i płac).
@@ -30,19 +28,27 @@ Tak zaprojektowane rozwiązanie pozwala na stworzenie elastycznego systemu rachu
 System FIS został tak zaprojektowany, aby umożliwić prostotę obsługi, automatyzację czynności księgowych i kontrolingowych, niezawodność działania oraz szybkie ujawnianie niezgodności w zapisach. Integralną częścią systemu FIS są mechanizmy wspierajcie pracę operatorów systemowych oparte o zasady sterowania wizualnego (opcja dodatkowa).
 
 ##  Korzyści z wdrożenia systemu enova365
-
-<ul>
-  <li>Redukcja kosztów poprzez wyeliminowanie nadmiarowych zapasów</li>
-  <li>Efektywniejsze zarządzanie zasobami ludzkimi poprzez efektywniejszą kontrolę.</li>
-  <li>Wysoki poziom bezpieczeństwa, dzięki zaawansowanym mechanizmom nadawania uprawnień</li>
-  <li>Dopasowanie systemu do wewnętrznych standardów firmy, dzięki zaawansowanej technologii systemu</li>
-  <li>Możliwość integracji enova365 z systemami informatycznymi dostawców</li>
-  <li>Użytkownik otrzymuje informacje zarządcze sprofilowane na potrzeby podejmowania właściwych decyzji.</li>
-  <li>Każdy użytkownik informacji ma możliwość uaktualnić ją samodzielnie.</li>
-  <li>Wszystkie dane są uzgadniane do zapisów księgi głównej (dane prezentowane w innych przekrojach są zgodne z danymi finansowymi).</li>
-  <li>Informacje są dostarczane w czasie rzeczywistym (dzięki mechanizmom automatycznych zapytań do bazy danych).</li>
-  <li>Raporty z danymi mają charakter elastyczny, można je przedstawiać w różnych przekrojach danych i zakresach czasowych w zależności od   specyfiki danego zagadnienia (np. rentowności produktów, efektowności pracy oddziałów i/lub zasobów itp.).</li>
-  <li>Źródło informacji znajduje się w jednym centralnym miejscu.</li>
-  <li>Informacja jest zawężana i profilowana za względu na grupę użytkowników.</li>
-  <li>Czas na przygotowanie informacji ulega odczuwalnemu skróceniu.</li>
-</ul>
+<table>
+  <tr>
+    <th>
+      <img src="../assets/img/partnerzy/ABET_betoniarka.jpg">
+    </th>
+    <th>
+      <ul>
+        <li>Redukcja kosztów poprzez wyeliminowanie nadmiarowych zapasów</li>
+        <li>Efektywniejsze zarządzanie zasobami ludzkimi poprzez efektywniejszą kontrolę.</li>
+        <li>Wysoki poziom bezpieczeństwa, dzięki zaawansowanym mechanizmom nadawania uprawnień</li>
+        <li>Dopasowanie systemu do wewnętrznych standardów firmy, dzięki zaawansowanej technologii systemu</li>
+        <li>Możliwość integracji enova365 z systemami informatycznymi dostawców</li>
+        <li>Użytkownik otrzymuje informacje zarządcze sprofilowane na potrzeby podejmowania właściwych decyzji.</li>
+        <li>Każdy użytkownik informacji ma możliwość uaktualnić ją samodzielnie.</li>
+        <li>Wszystkie dane są uzgadniane do zapisów księgi głównej (dane prezentowane w innych przekrojach są zgodne z danymi   finansowymi).</li>
+        <li>Informacje są dostarczane w czasie rzeczywistym (dzięki mechanizmom automatycznych zapytań do bazy danych).</li>
+        <li>Raporty z danymi mają charakter elastyczny, można je przedstawiać w różnych przekrojach danych i zakresach czasowych w zależności od   specyfiki danego zagadnienia (np. rentowności produktów, efektowności pracy oddziałów i/lub zasobów itp.).</li>
+        <li>Źródło informacji znajduje się w jednym centralnym miejscu.</li>
+        <li>Informacja jest zawężana i profilowana za względu na grupę użytkowników.</li>
+        <li>Czas na przygotowanie informacji ulega odczuwalnemu skróceniu.</li>
+        </ul>
+      </th>
+    </tr>
+  </table>
