@@ -2,7 +2,5 @@
 
 - title: Projekty
   url: /projects/
-# - title: Kontakty
-#   url: /contact/
-# - title: Nasz zespół
-#   url: /team/
+- title: Kontakty
+  url: /contact/
