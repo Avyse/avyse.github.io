@@ -13,6 +13,23 @@ layout: compress
       font-weight: 100;
       font-family: 'Arial';
     }
+    .motto {
+      padding-top: 50px;
+      position: relative;
+      float: left;
+      font-size: 22px;
+      font-weight: 95;
+    }
+    .tealit {
+      width: 30%;
+      float: left;
+    }
+    .kontakt {
+      clear: both;
+    }
+    cite {
+      font-style: $font1;
+    }
     </style>
 </head>
 <body>
@@ -21,27 +38,34 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
+              <div class="tealit">
                     <a href="{{ site.url }}">
                         <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
                     </a>
-                    <h3 class="title">
+              </div>
+              <div class="motto">
+                Rzeczy trudne robimy od ręki,<br>
+                na cuda trzeba poczekać.
+              </div>
+
+                    <!-- <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
                         	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
 			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
+                    </h3> -->
+                    <!-- <hr class="hr-line">
+                     <h3 class="title">
                         <a href="{{ site.url }}">
                         	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
+			            </a> -->
                     </h3>
-                    {% include social-links.html %}
-                  <div style="text-align: center;">info@tealit.pl<br>
+                  <div class="kontakt">info@tealit.pl |
                     Zabrze: 32 74 36 087 |
-                    Wrocław: 717 583 740</div>
-                  <hr class="hr-line">
+                    Wrocław: 717 583 740
+                  {% include social-links.html %}
+                  </div>
                   <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
+                  <!-- <a class="btn zoombtn" href="{{ site.url }}/about">
                          O nas
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
@@ -50,7 +74,7 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/contact">
                          Kontakt
                        </a>
-                       <!-- <br>
+                        <br>
                          <a class="btn zoombtn" href="{{ site.url }}/team">
                          Nasz zespół
                          </a>
