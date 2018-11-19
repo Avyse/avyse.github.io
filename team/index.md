@@ -6,7 +6,7 @@ comments: false
 team: true
 ---
 <img src="../assets/img/PiotrKozak.jpg">
-Piotr Kozak | Chief Technology Officer<br>
+Piotr Kozak | Chief Executive Officer<br>
 <br>
 Obszary specjalizacji (zainteresowania):<br>
 Technologie informatyczne, systemy ERP, rozwiązania programowe i sprzętowe, modelowanie danych, programowanie, integracja oprogramowania<br>
