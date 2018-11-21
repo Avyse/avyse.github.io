@@ -36,49 +36,49 @@ comments: false
   </style>
 </head>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/abet.pdf">Abet</a></h2>
+  <h2><a href="../assets/img/referencje/abet.pdf" target="blank">Abet</a></h2>
     <span>
       Produkcja
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/admar.pdf">Admar</a></h2>
+  <h2><a href="../assets/img/referencje/admar.pdf" target="blank">Admar</a></h2>
     <span>
       Produkcja
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/ceramika_tulowice.pdf">P.P.H.U. Ceramika Tułowice sp.j.</a></h2>
+  <h2><a href="../assets/img/referencje/ceramika_tulowice.pdf" target="blank">P.P.H.U. Ceramika Tułowice sp.j.</a></h2>
     <span>
       Produkcja
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/dsw.pdf">Dolnośląska Szkoła Wyższa</a></h2>
+  <h2><a href="../assets/img/referencje/dsw.pdf" target="blank">Dolnośląska Szkoła Wyższa</a></h2>
     <span>
       Edukacja / szkolenia
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/gala_meble.pdf">Gała Meble sp. z o.o.</a></h2>
+  <h2><a href="../assets/img/referencje/gala_meble.pdf" target="blank">Gała Meble sp. z o.o.</a></h2>
     <span>
       Produkcja
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/intp.pdf">Instytut Niskich Temperatur i Badań Strukturalnych PAN</a></h2>
+  <h2><a href="../assets/img/referencje/intp.pdf" target="blank">Instytut Niskich Temperatur i Badań Strukturalnych PAN</a></h2>
     <span>
       Edukacja / szkolenia
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/lcs.pdf">LCS Wojciech Cieślarczyk</a></h2>
+  <h2><a href="../assets/img/referencje/lcs.pdf" target="blank">LCS Wojciech Cieślarczyk</a></h2>
     <span>
       Handel / e-commerce
     </span>
 </div>
 <div class="grey-box">
-  <h2><a href="../assets/img/referencje/straz_miejska.pdf">Straż Miejska Wrocławia</a></h2>
+  <h2><a href="../assets/img/referencje/straz_miejska.pdf" target="blank">Straż Miejska Wrocławia</a></h2>
     <span>
       Administracja publiczna
     </span>
