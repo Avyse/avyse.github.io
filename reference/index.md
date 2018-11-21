@@ -4,11 +4,82 @@ title: Nasze referencje
 excerpt: "Opinie naszych klientów"
 comments: false
 ---
-<a href="../assets/img/referencje/abet.pdf">Abet</a><br>
-<a href="../assets/img/referencje/admar.pdf">Admar</a><br>
-<a href="../assets/img/referencje/ceramika_tulowice.pdf">Ceramika Tulowice</a><br>
-<a href="../assets/img/referencje/dsw.pdf">DSW</a><br>
-<a href="../assets/img/referencje/gala_meble.pdf">Gala Meble</a><br>
-<a href="../assets/img/referencje/intp.pdf">Instytut Niskich Temperatur</a><br>
-<a href="../assets/img/referencje/lcs.pdf">LCS</a><br>
-<a href="../assets/img/referencje/straz_miejska.pdf">Straz Miejska</a>
+<head>
+  <style>
+  .grey-box {
+    margin: 0 0 .3rem;
+    padding: 0.2rem 1.2rem 1.4rem 1.2rem;
+    background: #f3f5f9;
+  }
+  h2 {
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+  span {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #747474;
+    display: block;
+  }
+  a {
+    text-decoration: none;
+  }
+  </style>
+</head>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/abet.pdf">Abet</a></h2>
+    <span>
+      Produkcja
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/admar.pdf">Admar</a></h2>
+    <span>
+      Produkcja
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/ceramika_tulowice.pdf">P.P.H.U. Ceramika Tułowice sp.j.</a></h2>
+    <span>
+      Produkcja
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/dsw.pdf">Dolnośląska Szkoła Wyższa</a></h2>
+    <span>
+      Edukacja / szkolenia
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/gala_meble.pdf">Gała Meble sp. z o.o.</a></h2>
+    <span>
+      Produkcja
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/intp.pdf">Instytut Niskich Temperatur i Badań Strukturalnych PAN</a></h2>
+    <span>
+      Edukacja / szkolenia
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/lcs.pdf">LCS Wojciech Cieślarczyk</a></h2>
+    <span>
+      Handel / e-commerce
+    </span>
+</div>
+<div class="grey-box">
+  <h2><a href="../assets/img/referencje/straz_miejska.pdf">Straż Miejska Wrocławia</a></h2>
+    <span>
+      Administracja publiczna
+    </span>
+</div>
