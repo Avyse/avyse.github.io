@@ -43,8 +43,9 @@ comments: false
     color: #747474;
     padding: 2rem 2.5rem;
     border-radius: 5px;
-    background: #fff;
+    background: #fefefe;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
+    font-family: Arial;
   }
   .quotediv {
     padding-left: 9%;
