@@ -41,7 +41,7 @@ comments: false
     max-width: 100%;
     font-size: 1.2rem;
     line-height: 1.4rem;
-    color: #747474;
+    color: #505050;
     padding: 2rem 2.5rem;
     border-radius: 5px;
     background: #fefefe;
