@@ -57,3 +57,26 @@
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
+    <style>
+    th{
+      font-weight: 100;
+      font-family: 'Arial';
+    }
+    .motto {
+      padding-top: 50px;
+      position: relative;
+      float: left;
+      font-size: 22px;
+      font-weight: 95;
+    }
+    .tealit {
+      width: 30%;
+      float: left;
+    }
+    .kontakt {
+      clear: both;
+    }
+    cite {
+      font-style: $font1;
+    }
+    </style>

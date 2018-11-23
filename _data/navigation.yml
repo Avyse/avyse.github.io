@@ -1,5 +1,11 @@
 # Site navigation links
 
+- title: Strona główna
+  url: https://avyse.github.io
+- title: O nas
+  url: /about/
+- title: Aktualności
+  url: /posts/
 - title: Kontakt
   url: /contact/
 - title: Zespół
