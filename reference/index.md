@@ -79,7 +79,7 @@ comments: false
     <div class="quotediv">
       <blockquote class="quote">
         <p>
-          "Ważnym elementem w nadesłanych ofertach była konkurencyjna cena oprogramowania enova365. Oprogramowanie to spełniało wszystkie nasze oczekiwania. Funkcjonalność oferowane przez poszczególne moduły enova365 wykracza poza kompleksową praktyczność programów klasy ERP."
+          "Ważnym elementem w nadesłanych ofertach była konkurencyjna cena oprogramowania enova365. Oprogramowanie to spełniało wszystkie nasze oczekiwania. Funkcjonalność oferowana przez poszczególne moduły enova365 wykracza poza kompleksową praktyczność programów klasy ERP."
         </p>
         <small class="author">Adam Przybyłek, Prezes zarządu </small>
       </blockquote>
