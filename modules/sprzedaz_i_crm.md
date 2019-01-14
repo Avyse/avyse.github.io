@@ -4,6 +4,8 @@ title: Funkcjonalność enova365
 comments: false
 enova: true
 ---
+<iframe src="https://player.vimeo.com/video/184323652?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Ewidencja kontaktu z Klientem
 Po każdym kontakcie, CRM enova365 pozwala gromadzić informacje o wszystkich czynnościach i zadaniach wykonanych w stosunku do klienta, a także dane na temat jego preferencji zakupowych.
 <ul>

@@ -4,6 +4,7 @@ title: Funkcjonalność enova365
 comments: false
 enova: true
 ---
+<iframe src="https://player.vimeo.com/video/184323652?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ## Obsługa zamówień i zleceń
 Zamówienia mogą być rejestrowane automatycznie – np. poprzez sklep internetowy lub rozwiązanie typu EDI.
 <ul>

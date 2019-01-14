@@ -4,6 +4,7 @@ title: Funkcjonalność enova365
 comments: false
 enova: true
 ---
+<iframe src="https://player.vimeo.com/video/184323654?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ## Wskaźniki i raporty w miejscu pracy
 W systemie enova365 BI masz wygodny dostęp do wskaźników w miejscu swojej pracy – na listach oraz w zakładkach formularzy. Możesz używać standardowo zdefiniowanych wskaźników lub tworzyć nieograniczoną liczbę własnych, w zależności od indywidualnych potrzeb.
 <ul>

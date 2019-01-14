@@ -4,6 +4,7 @@ title: Funkcjonalność enova365
 comments: false
 enova: true
 ---
+<iframe src="https://player.vimeo.com/video/191781213?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ## Kartoteki pracowników
 System kadrowy enova365 pozwala w prosty sposób tworzyć dokumenty związane z zatrudnieniem: umowy, aneksy, zaświadczenia i inne dokumenty kadrowe.
 <ul>
