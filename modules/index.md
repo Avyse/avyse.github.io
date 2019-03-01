@@ -31,7 +31,7 @@ enova: true
 
 <div class="module_parent">
   <div class="module_grid">
-  <img src="https://www.enova.pl/content/uploads/2018/03/produkcja-3.png">
+  <img src="https://www.enova.pl/content/uploads/2018/03/produkcja-3.png" alt="produkcja">
     <a target="_blank" href="./produkcja">
       <h2>Produkcja</h2>
         <p>Automatyzacja produkcji przy jednoczesnym ujednoliceniu kosztów.</p>
@@ -40,7 +40,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./business_intelligence">
-    <img src="https://www.enova.pl/content/uploads/2018/03/business-inteligence.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/business-inteligence.png" alt="BI">
       <h2>Business Intelligence</h2>
         <p>Wiedza dla każdego – Business Intelligence nie tylko dla analityków.</p>
     </a>
@@ -48,7 +48,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./procesy">
-    <img src="https://www.enova.pl/content/uploads/2018/03/procesy.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/procesy.png" alt="procesy">
       <h2>Procesy</h2>
         <p>System do zadań specjalnych – z Workflow procesy będą przebiegać płynnie.</p>
     </a>
@@ -56,7 +56,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./finanse_i_ksiegowosc">
-    <img src="https://www.enova.pl/content/uploads/2018/03/finanse-i-ksiegowosc.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/finanse-i-ksiegowosc.png" alt="finanse i księgowość">
       <h2>Finanse i księgowość</h2>
         <p>Kompletny program dla księgowości – zawsze zgodny z przepisami.</p>
     </a>
@@ -64,7 +64,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./kadry_i_place_hr">
-    <img src="https://www.enova.pl/content/uploads/2018/03/kadry-i-place-hr.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/kadry-i-place-hr.png" alt="kadry i płace">
       <h2>Kadry Płace i HR</h2>
         <p>Rozwijaj firmę i zatrudniaj pracowników – system enova365 zrobi resztę.</p>
     </a>
@@ -72,7 +72,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./handel_i_magazyn">
-    <img src="https://www.enova.pl/content/uploads/2018/03/magazyn-i-logistyka.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/magazyn-i-logistyka.png" alt="magazyn i logistyka">
         <h2>Handel i magazyn</h2>
       <p>Kompleksowy program do obsługi zamówień i magazynu.</p>
     </a>
@@ -80,7 +80,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./sprzedaz_i_crm">
-    <img src="https://www.enova.pl/content/uploads/2018/03/sprzedaz-crm.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/sprzedaz-crm.png" sprzedaż i crm>
       <h2>Sprzedaż i CRM</h2>
         <p>CRM dla handlowca – zwiększaj sprzedaż, daj nowoczesne narzędzie swoim handlowcom.</p>
     </a>
@@ -88,7 +88,7 @@ enova: true
 
   <div class="module_grid">
     <a target="_blank" href="./projekty">
-    <img src="https://www.enova.pl/content/uploads/2018/03/projekty.png">
+    <img src="https://www.enova.pl/content/uploads/2018/03/projekty.png" alt="projekty">
       <h2>Projekty</h2>
         <p>System zarządzania projektem – czas realizacji i budżet pod kontrolą.</p>
     </a>

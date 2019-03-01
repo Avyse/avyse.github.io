@@ -14,7 +14,7 @@ ERP enova365 Produkcja jest częścią zintegrowanego systemu enova365. Oznacza 
     <li>Możliwość generowania dokumentów rozchodu surowców dla całego zlecenia, składającego się nawet z wielu produktów lub  operacji.</li>
     <li>Elastyczna struktura, która umożliwia przypisanie wzorcowych operacji – elementów technologii produkcji.</li>
   </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/01f_gif-rozw-produkcja.gif">
+<img src="https://www.enova.pl/content/uploads/2018/03/01f_gif-rozw-produkcja.gif" alt="produkcja dedykowana na zamówienie">
 
 ## Zarządzanie magazynem
 System zarządzania produkcją jest powiązany z pracą magazynu. Dzięki integracji między różnymi   modułami możesz kontrolować cały obieg informacji.
@@ -25,7 +25,7 @@ System zarządzania produkcją jest powiązany z pracą magazynu. Dzięki integr
     <li>Zlecenie produkcyjne może być powiązane relacjami z innymi dokumentami. Dzięki temu możliwe jest generowanie zleceń produkcyjnych</li>
     <li>na podstawie zamówień od klientów.</li>
   </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/zarzadzanie-magazynem.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/zarzadzanie-magazynem.png" alt="zarządzanie magazynem">
 
 ## Rozwiązanie dla firm produkcyjnych
 <ul>
@@ -33,4 +33,4 @@ System zarządzania produkcją jest powiązany z pracą magazynu. Dzięki integr
 <li>Wspiera proces produkcji bazujący na technologii wyrobu gotowego</li>
 <li>Pozwala rozszerzyć funkcje związane z technologią produkcji dzięki integracji z modułem Workflow</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/produkcja-2.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/produkcja-2.png" alt="rozwiązanie dla firm produkcyjnych">

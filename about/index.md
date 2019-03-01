@@ -30,7 +30,7 @@ W codziennej pracy i życiu kierujemy się następującymi wartościami:
 </ol>
 
 ## Sposób pracy i współpracy z klientem
-<img src="../assets/img/client_wheel_tealit.png">
+<img src="../assets/img/client_wheel_tealit.png" alt="Schemat pracy z klientem Tealit">
 <ul>
 <li>Koncepcja - ustalenie stanu bieżącego, opracowanie listy wymagań krytycznych dla planowanych rozwiązań</li>
 <li>Analiza - dogłębne sprawdzenie wypracowanego rozwiązania. W sytuacjach wątpliwych, które zostaną ujawnione podczas analizy, powrót do prac koncepcyjnych</li>

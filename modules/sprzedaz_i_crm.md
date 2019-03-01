@@ -14,7 +14,7 @@ Po każdym kontakcie, CRM enova365 pozwala gromadzić informacje o wszystkich cz
 <li>Wprowadzaj dane tak, jak Ci wygodnie: wypełnij formularz lub importuj dane z poziomu arkusza Excel jak i z pliku .xml. CRM możesz też integrować bezpośrednio ze źródłami danych. </li>
 <li>CRM pozwala tworzyć zadania, zdarzenia, prowadzić projekty oraz kampanie.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/01h_gif-rozw-sprzedaz-crm.gif">
+<img src="https://www.enova.pl/content/uploads/2017/12/01h_gif-rozw-sprzedaz-crm.gif" alt="ewidencja kontaktu">
 ## Obsługa lejka sprzedażowego
 Lejek sprzedaży umożliwia analizę leadów na każdym poziomie procesu sprzedaży. Dzięki niemu wiesz, jakie działania ma podjąć Twój zespół sprzedażowy i na jakim etapie znajduje się realizacja planu.
 <ul>
@@ -23,7 +23,7 @@ Lejek sprzedaży umożliwia analizę leadów na każdym poziomie procesu sprzeda
 <li>CRM enova 365 umożliwia pracę w przeglądarce i ułatwia wizualizację danych w formie wykresów. </li>
 <li>Szybki i wygodny dostęp pozwala Ci zyskać wiedzę o tym, jaką skuteczność mają handlowcy, na jakim etapie powinni podjąć kontakt oraz jakie są właściwe działania, które pozwalają osiągnąć cel.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/obsluga-lejka.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/obsluga-lejka.png" alt="obsługa lejka sprzedażowego">
 ## Raporty i forecasty
 Otrzymujesz dostęp do gotowych wzorców raportów już w standardowej wersji programu.
 <ul>
@@ -31,7 +31,7 @@ Otrzymujesz dostęp do gotowych wzorców raportów już w standardowej wersji pr
 <li>Posiadasz pełną dowolność w tworzeniu analiz w oparciu o informacje zawarte we wszystkich modułach enova365.</li>
 <li>W prosty sposób tworzysz wyspecjalizowane raporty oraz analizy danych, które znajdują się w bazie operacyjnej programu. Bez obciążania głównego serwera bazy danych.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/raporty-i-forecasty.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/raporty-i-forecasty.png" alt="raporty i forecasty">
 ## Harmonogramy i obsługa procesów
 Dzięki automatyzacji sprzedaży CRM możesz automatycznie wysyłać powiadomienia np. o niezapłaconych fakturach – za pomocą poczty e-mail lub SMS.
 <ul>
@@ -40,7 +40,7 @@ Dzięki automatyzacji sprzedaży CRM możesz automatycznie wysyłać powiadomien
 <li>Za pomocą CRM enova365 możesz wygenerować przypomnienie o zbliżającym się terminie płatności.</li>
 <li>CRM daje Ci możliwość prowadzenia nie tylko procesów sprzedażowych, ale też supportu i reklamacji.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/harmonogramy.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/harmonogramy.png" alt="Harmonogramy i obsługa procesów">
 ## Aplikacje mobilne dla handlowców
 Jeśli jesteś handlowcem, potrzebujesz osobistego asystenta, który wystawi dokumenty handlowe: zapytania, oferty, zamówienia – kiedy tylko chcesz. To wszystko możesz osiągnąć dzięki aplikacji enova365 na urządzenia Android.
 <ul>
@@ -49,4 +49,4 @@ Jeśli jesteś handlowcem, potrzebujesz osobistego asystenta, który wystawi dok
 <li>Sprawdź aktualny cennik lub przyznaj klientowi rabat.</li>
 <li>Korzystasz z kalendarza i map Google? Nasz CRM będzie z nim współpracować, by zwiększyć efektywność działań.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/aplikacje-i-przedstawiciel.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/aplikacje-i-przedstawiciel.png" alt="aplikacje mobilne dla handlowców">

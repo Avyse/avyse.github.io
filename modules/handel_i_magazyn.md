@@ -12,7 +12,7 @@ Zamówienia mogą być rejestrowane automatycznie – np. poprzez sklep internet
 <li>Dobieraj różne modele zamówień od odbiorców (m.in. z rezerwacją przyszłych dostaw czy ich liczby).</li>
 <li>Skorzystaj z możliwości przekazania zamówienia do dostawcy w formie elektronicznej (EDI, XML, PDF, CSV). Rejestruj korekty zamówień – jeśli tego potrzebujesz.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/d6201e76-f755-42d2-9b73-1211e3599f26-540x315.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/d6201e76-f755-42d2-9b73-1211e3599f26-540x315.png" alt="obsługa zamówień i zleceń">
 ## Obsługa magazynu
 Program do prowadzenia magazynu umożliwi Ci śledzenie bieżących i historycznych stanów magazynowych.
 <ul>
@@ -21,7 +21,7 @@ Program do prowadzenia magazynu umożliwi Ci śledzenie bieżących i historyczn
 <li>Ciągła inwentaryzacja – bez konieczności wstrzymywania pracy Twojego magazynu.</li>
 <li>Zarządzaj magazynem za pomocą urządzeń mobilnych – przyjmuj i wydawaj towar oraz dokonuj inwentaryzacji.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2017/12/d6201e76-f755-42d2-9b73-1211e3599f26-540x315.png">
+<img src="https://www.enova.pl/content/uploads/2017/12/d6201e76-f755-42d2-9b73-1211e3599f26-540x315.png" alt="obsługa magazynu">
 ## Sprzedaż
 Program księgowo-magazynowy zawiera gotowe dokumenty sprzedaży dla różnych rodzajów transakcji (np. sprzedaż z odwrotnym obciążeniem, UE, faktury zaliczkowe sprzedaży).
 <ul>

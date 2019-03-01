@@ -13,7 +13,7 @@ Wybierz program do pełniej księgowości!
 <li>Inteligentne mechanizmy księgowania oparte o wiele elementów z obszaru całego systemu.</li>
 <li>Wygodne mechanizmy skrótów i odwołań.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/01a_gif-rozw-ksiegowosc.gif">
+<img src="https://www.enova.pl/content/uploads/2018/03/01a_gif-rozw-ksiegowosc.gif" alt="rozwiązania księgowe">
 ## JPK i eDeklaracje
 Standardowy program enova365 jest wyposażony w funkcję, która umożliwia utworzenie wszystkich rodzajów JPK oraz wysłania ich do bramki Ministerstwa Finansów.
 <ul>
@@ -22,7 +22,7 @@ Standardowy program enova365 jest wyposażony w funkcję, która umożliwia utwo
 <li>System umożliwia generowanie oraz wysyłkę eDeklaracji dla VAT-7, VAT-UE, VAT-27 oraz CIT-8.</li>
 <li>Struktura plików JPK oraz deklaracji jest na bieżąco aktualizowana, zgodnie ze zmianami wprowadzonymi przez Ministerstwo Finansów.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/jpk.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/jpk.png" alt="JPK">
 ## Rozrachunki i rozliczenia
 Wbudowane mechanizmy pozwalają na zachowanie spójności pomiędzy rozrachunkami a księgowaniami na kontach.
 <ul>
@@ -30,7 +30,7 @@ Wbudowane mechanizmy pozwalają na zachowanie spójności pomiędzy rozrachunkam
 <li>Program pozwala kontrolować i wykonywać czynności na operacjach bankowych – bezpośrednio w enova365 i bez konieczności logowania się do systemu bankowego (WebServices).</li>
 <li>System umożliwia windykację przeterminowanych należności tzw. windykację przedsądową w oparciu o własne procedury windykacyjne. Pozwala także na monitorowanie dłużnika, m.in. poprzez automatyczną wysyłkę wiadomości SMS lub e-mail oraz generowania dokumentów – takich jak wezwania do zapłaty czy noty odsetkowe.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/rozrachunki.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/rozrachunki.png" alt="rozrachunki">
 ## DMS i obsługa procesów
 System do zarządzania dokumentami (Document Management System) to zestaw narzędzi, które wspierają kwestie ewidencjonowania danych w firmie.
 <ul>
@@ -38,7 +38,7 @@ System do zarządzania dokumentami (Document Management System) to zestaw narzę
 <li>Moduł dostarcza listy dokumentów oraz podstawowe funkcje ich przeszukiwania, analizy, listę spraw (zarówno dla kancelarii bez dziennikowych jak i mieszanych). </li>
 <li>System DMS może być również wspierany przez Workflow w kwestii definiowania i realizacji ustalonych procesów – w obszarze przetwarzania dokumentów.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/dms-i-obsluga.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/dms-i-obsluga.png" alt="dms i obsługa">
 ## BI i raportowanie
 Business Intelligence pozwala stworzyć własny zestaw wskaźników tzw. banner BI, który będzie mierzył wybrane przez Ciebie wartości.
 <ul>
@@ -46,4 +46,4 @@ Business Intelligence pozwala stworzyć własny zestaw wskaźników tzw. banner 
 <li>Moduł BI, podobnie jak cały system enova365, pozwala na rozbudowę dostarczonych standardowych lub dobudowanie nowych wskaźników i raportów BI.</li>
 <li>Analizuj koszty i przychody w wielu miejscach systemu w kontekście projektów, dokumentów czy użytkowników.</li>
 </ul>
-<img src="https://www.enova.pl/content/uploads/2018/03/bi-i-raportowanie.png">
+<img src="https://www.enova.pl/content/uploads/2018/03/bi-i-raportowanie.png" alt="bi i raportowanie">

@@ -5,7 +5,7 @@ comments: false
 enova: true
 ---
 ## Soneta Sp. z o.o., producent enova365
-<img src="../assets/img/soneta/soneta_producent.png">
+<img src="../assets/img/soneta/soneta_producent.png" alt="soneta_producent">
 Soneta Sp. z o.o. jest polskim producentem oprogramowania do zarządzania – enova365. Spółka powstała w 2002 roku i od tego czasu nieustająco się rozwija. Jako pierwsza w Polsce udostępniła pełny system ERP w chmurze oraz umożliwiła swoim użytkownikom korzystanie z systemu na wielu urządzeniach (w tym tabletach i smartfonach). Aż 88% Klientów jest zadowolonych z użytkowania oprogramowania enova365
 ## Soneta Sp. z o.o., osiągnięcia, nagrody i wyróżnienia
 
@@ -29,29 +29,29 @@ Soneta Sp. z o.o. jest polskim producentem oprogramowania do zarządzania – en
   </ol>
   </th>
   <th>
-  <img src="../assets/img/soneta/soneta_osiagniecia.png">
+  <img src="../assets/img/soneta/soneta_osiagniecia.png" alt="soneta_osiagniecia">
   </th>
   </tr>
 </table>
 ## Soneta Sp. z o.o., klienci
 
-<img src="../assets/img/soneta/soneta_klienci.png">
+<img src="../assets/img/soneta/soneta_klienci.png" alt="soneta_klienci">
 Oprogramowanie enova365 od jego powstania w 2002 roku (ponad 16 lat istnienia na rynku) stale zdobywa nowych użytkowników wśród wielu segmentów polskiego rynku
 
 Szczególną uwagę zwraca się na segment największych klientów, których oczekiwania wymagają stałego wprowadzania nowych rozwiązań i aktualizacji technologicznych
 ## Soneta Sp. z o.o., sieć autoryzowanych partnerów
 
-<img src="../assets/img/soneta/soneta_partnerzy.png">
+<img src="../assets/img/soneta/soneta_partnerzy.png" alt="soneta_partnerzy">
 
 Partnerzy są odpowiedzialni za sprzedaż i wdrożenie oprogramowania enova365
 Partnerzy wspierają klientów w opracowywaniu złożonych rozwiązań biznesowych
 ## Soneta Sp. z o.o., przyszłość enova365
-<img src="../assets/img/soneta/soneta_przyszlosc.png">
+<img src="../assets/img/soneta/soneta_przyszlosc.png" alt="soneta_przyszlosc">
 ## enova365 - wprowadzenie
 <table>
 <tr>
 <th>
-<img src="../assets/img/soneta/soneta_wprowadzenie.png">
+<img src="../assets/img/soneta/soneta_wprowadzenie.png" alt="soneta_wprowadzenie">
 </th>
 <th>
 System enova365 to najnowszej generacji oprogramowanie ERP przeznaczone do kompleksowego zarządzania firmami oraz instytucjami. System obejmuje ponad 53 rozwiązania funkcjonalne, które usprawniają codzienną pracę przedsiębiorstwa
@@ -59,16 +59,16 @@ System enova365 to najnowszej generacji oprogramowanie ERP przeznaczone do kompl
 </tr>
 </table>
 ## enova365 – zgodność z przepisami prawa
-<img src="../assets/img/soneta/soneta_przepisy.png">
+<img src="../assets/img/soneta/soneta_przepisy.png" alt="soneta_przepisy">
 ## enova365 – ewidencja dokumentów dla potrzeb księgowych
-<img src="../assets/img/soneta/soneta_ewidencja.png">
+<img src="../assets/img/soneta/soneta_ewidencja.png" alt="soneta_ewidencja">
 ## enova365 – zaawansowane funkcjonalności księgowo-operacyjne
-<img src="../assets/img/soneta/soneta_funkcjonalnosci.png">
+<img src="../assets/img/soneta/soneta_funkcjonalnosci.png" alt="soneta_funkcjonalnosci">
 ## enova365 – kontrola danych finansowych
-<img src="../assets/img/soneta/soneta_kontrola_danych.png">
+<img src="../assets/img/soneta/soneta_kontrola_danych.png" alt="soneta_kontrola_danych">
 ## Zasady licencjonowania enova365
-<img src="../assets/img/soneta/soneta_licencje.png">
+<img src="../assets/img/soneta/soneta_licencje.png" alt="soneta_licencje">
 ## enova365, technologia Microsoft
-<img src="../assets/img/soneta/soneta_microsoft.png">
+<img src="../assets/img/soneta/soneta_microsoft.png" alt="soneta_microsoft">
 ## eova365, software i hardware
-<img src="../assets/img/soneta/soneta_software_hardware.png">
+<img src="../assets/img/soneta/soneta_software_hardware.png" alt="soneta_software_hardware">
