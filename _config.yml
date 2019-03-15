@@ -1,7 +1,7 @@
 # Site
 title:              Tealit
-bio:                'TEAL IT dostarcza oprogramowanie Enova365 dla firm.'
-description:        'TEAL IT oferuje kompleksowe rozwiązania informatyczne oparte o system enova, ściśle odpowiadające waszym potrzebom biznesowym.'
+bio:                'Tealit dostarcza oprogramowanie Enova365 dla firm.'
+description:        'Tealit oferuje kompleksowe rozwiązania informatyczne oparte o system enova, ściśle odpowiadające waszym potrzebom biznesowym.'
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -32,7 +32,7 @@ disqus_shortname:   avyse
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  analytics: "gtag('config', 'UA-135637847-1');"
+  #analytics: "gtag('config', 'UA-135637847-1');"
   #verify:
   #ad-client:
   #ad-slot:

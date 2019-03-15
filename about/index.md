@@ -9,7 +9,7 @@ comments: false
 
 ## Historia naszej działalności
 
-TealIT to zespół osób które są zaangażowane w niesienie pomocy w zakresie oprogramowania enova. Przez stały kontakt i szybką reakcję helpdesku dajemy Ci poczucie bezpieczeństwa.
+Tealit to zespół osób które są zaangażowane w niesienie pomocy w zakresie oprogramowania enova. Przez stały kontakt i szybką reakcję helpdesku dajemy Ci poczucie bezpieczeństwa.
 Podejście do klienta jako partnera biznesowego pomaga w osiąganiu wymiernych korzyści, które uzyskujemy dzięki dostarczaniu nowoczesnego oprogramowania dla średnich i dużych firm z branż produkcyjnych, handlowych i usługowych, które są zainteresowane minimalizacją kosztów i skutecznym zarządzaniem. Jesteśmy  wiodącym dostawcą nowoczesnego systemu informatycznego,  opartego na biznesowym oprogramowaniu enova365. System został stworzony przez ekspertów z dziedzin zarządzania, finansów i księgowości, handlu oraz kadr i płac, a doceniło go już kilka tysięcy firm z całej Polski. Dzięki wieloletniemu doświadczeniu na rynku IT, zapewniamy profesjonalne doradztwo, wdrożenia a także dbałość o optymalne wykorzystanie istniejącej infrastruktury informatycznej. Wspieramy klientów chcących przejść na następny poziom rozwoju osobistego i biznesowego, poprzez budowanie zmotywowanym zespołem trwałych i efektywnych rozwiązań systemowych, przynoszących pozytywną zmianę rzeczywistości.
 
 <a href="{{ site.url }}/enova365/">Co to jest enova365?</a>
