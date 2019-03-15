@@ -9,14 +9,6 @@ layout: compress
 <head>
     {% include head.html %}
 </head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135637847-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-135637847-1');
-</script>
 <body>
     {% include nav.html %}
     <!-- Header -->
@@ -48,5 +40,6 @@ layout: compress
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>
+    {% include analytics.html %}
 </body>
 </html>
