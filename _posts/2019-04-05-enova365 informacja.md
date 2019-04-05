@@ -4,7 +4,6 @@ title: Enova365 Informacja
 excerpt: "Informacja dla Klientów, którzy sporządzili e-sprawozdania finansowe wersją 15.3 enova365."
 comments: false
 ---
-<h1>Wersja 15.4.1 (15.4.7033) z dnia 04.04.2019</h1>
 W wersji 15.3 ukazała się funkcjonalność wspierająca sporządzanie e-sprawozdań w formie zestawień oraz pliku XLML.
 
 W wersji tej zostały stwierdzone następujące problemy:
